@@ -1,16 +1,19 @@
-### Hi there 👋
+# Hello, I'm Luis! 👋
 
-<!--
-**Ludoviko451/Ludoviko451** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+I'm an apprentice at SENA studying Analysis and Software Development. I'm passionate about both frontend and backend development.
 
-Here are some ideas to get you started:
+- 🌱 I'm currently learning and working with technologies like:
+  - ![Java](https://img.shields.io/badge/-Java-orange)
+  - ![Python](https://img.shields.io/badge/-Python-blue)
+  - ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+  - ![C#](https://img.shields.io/badge/-C%23-green)
+  - ![MySQL](https://img.shields.io/badge/-MySQL-lightgrey)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 You can find my projects on [GitHub](https://github.com/Ludoviko451).
+
+## Connect with Me
+- 📧 Email: luisangelquirosflorez@gmail.com
+- LinkedIn: [linkedin.com/in/luisquirosflorez](https://www.linkedin.com/in/luisquirosflorez)
+
+Let's connect and build something awesome together! 💻🚀
