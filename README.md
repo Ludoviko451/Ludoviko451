@@ -1,7 +1,7 @@
 # Hello, I'm Luis! 👋
 
 ## About Me
-I'm an apprentice at SENA studying Analysis and Software Development. I'm passionate about both frontend and backend development.
+I am a graduate in Software Analysis and Development. I am passionate about both frontend and backend development.
 
 - 🌱 I'm currently learning and working with technologies like:
   - ![Java](https://img.shields.io/badge/-Java-orange)
